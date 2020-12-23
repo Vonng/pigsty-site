@@ -1,9 +1,9 @@
 ---
-date: 2018-10-06
-title: "Easy documentation with Docsy"
-linkTitle: "Announcing Docsy"
-description: "The Docsy Hugo theme lets project maintainers and contributors focus on content, not on reinventing a website infrastructure from scratch"
-author: Riona MacNamara ([@rionam](https://twitter.com/bepsays))
+date: 2020-10-11
+title: "Pigsty Public Beta"
+linkTitle: "Announcing Pigsty"
+description: "Announcing first public beta: pigsty 0.3.0 "
+author: Ruohang Feng([@Vonng](http://vonng.com))
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"

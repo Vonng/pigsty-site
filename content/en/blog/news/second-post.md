@@ -1,8 +1,8 @@
 
 ---
-title: "The second blog post"
-linkTitle: "Second blog post"
-date: 2018-10-06
+title: "Pigsty 0.5.0 announced"
+linkTitle: "Pigsty 0.5 announced"
+date: 2020-12-23
 description: >
   A short lead description about this content page. Text here can also be **bold** or _italic_ and can even be split over multiple paragraphs.
 ---

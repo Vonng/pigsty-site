@@ -62,7 +62,7 @@ weight = 2
 [languages.cn]
 title = "Pigsty"
 description = "Pigsty 中文文档"
-languageName ="Chineses"
+languageName ="中文"
 contentDir = "content/cn"
 weight = 1
 
