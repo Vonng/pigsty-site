@@ -1,10 +1,10 @@
 
 ---
-title: "Another Great Release"
-linkTitle: "Release New Features"
+title: "Example Article"
+linkTitle: "Example Article"
 date: 2018-01-04
 description: >
-  A short lead description about this content page. Text here can also be **bold** or _italic_ and can even be split over multiple paragraphs.
+  v0.4.0 second public beta is released 
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).

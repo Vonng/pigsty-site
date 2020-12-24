@@ -1,13 +1,13 @@
 ---
 title: "Getting Started"
 linkTitle: "Getting Started"
-weight: 2
+weight: 3
 description: >
-  What does your user need to know to try your project?
+  This document shows how to pull up a local sandbox environment on your laptop.
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+This tutorial is based on vagrant and virtualbox
 {{% /pageinfo %}}
 
 Information in this section helps your user try your project themselves.

@@ -1,16 +1,22 @@
 
 ---
-title: "Core Tasks"
-linkTitle: "Core Tasks"
+title: "Tasks"
+linkTitle: "Tasks"
 weight: 6
-date: 2017-01-05
+date: 2020-11-05
 description: >
-  What can your user do with your project?
+  Interesting stuff you can explore with pigsty
 ---
 
 {{% pageinfo %}}
 This is a placeholder page that shows you how to use this template site.
 {{% /pageinfo %}}
+
+You can do a lot fun staff with pigsty.
+
+
+
+
 
 Think about your project’s features and use cases. Use these to choose your core tasks. Each granular use case (enable x, configure y) should have a corresponding tasks page or tasks page section. Users should be able to quickly refer to your core tasks when they need to find out how to do one specific thing, rather than having to look for the instructions in a bigger tutorial or example. Think of your tasks pages as a cookbook with different procedures your users can combine to create something more substantial.
 

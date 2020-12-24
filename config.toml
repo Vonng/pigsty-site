@@ -83,8 +83,8 @@ weight = 1
 section = ["HTML", "print"]
 
 [params]
-copyright = "Ruohang Feng (rh@vonng.com)"
-privacy_policy = "https://pigsty.cc"
+copyright = "Vonng (rh@vonng.com)"
+privacy_policy = "http://pigsty.cc"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
@@ -101,16 +101,16 @@ archived_version = false
 # The version number for the version of the docs represented in this doc set.
 # Used in the "version-banner" partial to display a version number for the 
 # current doc set.
-version = "0.0"
+version = "0.5"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://example.com"
+url_latest_version = "https://pigsty.cc"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/google/docsy-example"
+github_repo = "https://github.com/Vonng/pigsty"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/google/docsy"
+github_project_repo = "https://github.com/Vonng/pigsty"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
@@ -119,10 +119,10 @@ github_project_repo = "https://github.com/google/docsy"
 gcs_engine_id = "011737558837375720776:fsdu1nryfng"
 
 # Enable Algolia DocSearch
-algolia_docsearch = false
+algolia_docsearch = true
 
 # Enable Lunr.js offline search
-offlineSearch = false
+offlineSearch = true
 
 # Enable syntax highlighting and copy buttons on code blocks with Prism
 prism_syntax_highlighting = false
@@ -176,17 +176,17 @@ enable = false
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
 	name = "GitHub"
-	url = "https://github.com/google/docsy"
+	url = "https://github.com/Vonng/pigsty"
 	icon = "fab fa-github"
-        desc = "Development takes place here!"
+        desc = "Github repo for pigsty!"
 [[params.links.developer]]
 	name = "Slack"
 	url = "https://example.org/slack"
 	icon = "fab fa-slack"
-        desc = "Chat with other project developers"
+    desc = "Chat with other project developers"
 [[params.links.developer]]
 	name = "Developer mailing list"
 	url = "https://example.org/mail"
 	icon = "fa fa-envelope"
-        desc = "Discuss development issues around the project"
+    desc = "Discuss development issues around the project"
 
